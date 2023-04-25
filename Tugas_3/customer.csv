@@ -1,0 +1,401 @@
+ID,Pembeli,Domisili,Umur,Gaji,Terbeli
+15624510,Rex King,Bali,29,50000,0
+15810944,Banar Prayogi,Semarang,35,20000,0
+15668575,Agus Kopling,Jogja,26,43000,0
+15603246,Kamila Ros,Irian,27,57000,1
+15804002,Pylon Tuf,Manado,19,76000,0
+15728773,Megachan,Bukit Tinggi,27,58000,0
+15598044,Prabowo Bowo,Solo,27,84000,0
+15694829,Fekambing,Purbalingga,32,150000,1
+15600575,Arya Putera,Kediri,25,33000,0
+15727311,Dewi Rahayu,Palembang,35,65000,0
+15570769,Timothy Leo,Bekasi,25,80000,0
+15606274,Christine Ayu,Padang,26,52000,0
+15746139,Leonardo ,Probolinggo,20,86000,0
+15704987,Stella Forger,Bogor,32,18000,0
+15628972,Irfan Choi,Tangerang ,18,82000,0
+15697686,Faza,Cikarang ,29,80000,0
+15733883,Diva Charisma,Semarang,47,25000,1
+15617482,Palevi Akbar,Ungaran,45,26000,1
+15704583,Reyna Surya,Bodja,46,28000,1
+15621083,Joko Kondo,Cepu,48,29000,1
+15649487,Tri Setya,Batang,45,22000,1
+15736760,Eko Hadiyanto,Makassar,47,49000,1
+15714658,Avrellio Ramadhan,Batu,48,41000,1
+15599081,Yoga Gandhi,Samarind,45,22000,1
+15705113,Dewi Budi Rahayu,Balikpapan,46,23000,1
+15631159,Gekma Ayu,Langsa,47,20000,1
+15792818,I Gede Raka,Nusantara,49,28000,1
+15633531,John Subade,Pagar Alam,47,30000,1
+15744529,Salsabilla Zahra,Cirebon,29,43000,0
+15669656,Adeeva Putri,Magelang,31,18000,0
+15581198,Putri Maharaini,Secang,31,74000,0
+15729054,Zhafira Poetri,Palopo,27,137000,1
+15573452,Dian Eka Ayu,Bau bau,21,16000,0
+15776733,Agung Raharjo,Cimahi,28,44000,0
+15724858,Ahmad Kurniawan,Palangkaraya,27,90000,0
+15713144,Andi Retno,Bima,35,27000,0
+15690188,Dewi Retno Kusuma,Sorong,33,28000,0
+15689425,Novita Putri,Singkawang,30,49000,0
+15671766,Maya Utami ,Banjar,26,72000,0
+15782806,Dina Aulia ,Tanjung Pinang,27,31000,0
+15764419,Raden Mas ,Serang,27,17000,0
+15591915,Harja Saputra,Madiun,33,51000,0
+15772798,Adhi Utomo,Sukabumi,35,108000,0
+15792008,Adi Bisono,Batam,30,15000,0
+15715541,Agus Susanto,Jayapura,28,84000,0
+15639277,Ahmad Marda,Dumai,23,20000,0
+15798850,Taufik Akbar ,Kupang,25,79000,0
+15776348,Albert Sugianto,Mojokerto,27,54000,0
+15727696,Rafael Christianto,Medan,30,135000,1
+15793813,Raj Kumar ,Pasuruan,31,89000,0
+15694395,Raja Sapta Ervian,Banyumanik,24,32000,0
+15764195,Ali Akbar,Pudakpayung,18,44000,0
+15744919,Fakhrizain Nahla,Manyaran,29,83000,0
+15671655,Boy William,Plamongan,35,23000,0
+15654901,Airlangga Putra,Denpasar,27,58000,0
+15649136,Raffi Nanda Putra,Jakarta,24,55000,0
+15775562,Kiemas Tito,Tasikmalaya,23,48000,0
+15807481,Prasetya Nugraha,Jambi,28,79000,0
+15642885,Richard Sugianto,Tegal,22,18000,0
+15789109,Ridwan Hanif,Kendal,32,117000,0
+15814004,Rina Ciputra Sastrawinata,Demak,27,20000,0
+15673619,Ricky Cuaca,Kaliwungu,25,87000,0
+15595135,Hartono ,Kaligawe,23,66000,0
+15583681,Ronald Liem,Mojokerto,32,120000,1
+15605000,Roni Pramadita,Surabaya,59,83000,0
+15718071,Rosana,Blitar,24,58000,0
+15679760,Roswita Trismitro,Madiun,24,19000,0
+15654574,Kustilah,Malang,23,82000,0
+15577178,Karyati,Pasuruan ,22,63000,0
+15595324,Rudy Ghozali,Pontianak,31,68000,0
+15756932,Sandiaga Uno,Banjarbaru,25,80000,0
+15726358,Samuel Setiawan,Banjarmasin,24,27000,0
+15595228,Saraswati Tedjakusuma,Singkawang,20,23000,0
+15782530,Sastra Silalahi,Tarakan,33,113000,0
+15592877,Oza Rangkuti,Metro,32,18000,0
+15651983,Tretan Aditya,Bandar Lampung,34,112000,1
+15746737,Coki Pardede,Ternate,18,52000,0
+15774179,Rizky Samudra,Ambon,22,27000,0
+15667265,Joshua Suherman,Bima,28,87000,0
+15655123,Dimas Fauzan,Mataram,26,17000,0
+15595917,Fauzan Tri Faturohman,Sorong,30,80000,1
+15668385,Geby Ramadhan,Payakumbuh,39,42000,0
+15709476,Newendi Septian,Semarang,20,49000,0
+15711218,Rin Hermana,Surabaya,35,88000,0
+15798659,Pras Teguh,Ungaran,30,62000,0
+15663939,Mal Jupri,Bawen,31,118000,1
+15694946,Dimas Yudhistira,Bawen,24,55000,0
+15631912,Ge Pamungkan,Solo,28,85000,0
+15768816,Bambang Pamungkas,Klaten,26,81000,0
+15682268,Sugeng,Binjai,35,50000,0
+15684801,Marshel Widianto,Sibolga,22,81000,0
+15636428,Priska Baru Segu,Sekayu,30,116000,0
+15809823,Yudha Ilham,Batam,26,15000,0
+15699284,Muhadkly Acho,Tarakan,29,28000,0
+15786993,Ephy Pae ,Pekalongan,29,83000,0
+15709441,Ebel Cobra,Pemalang,35,44000,0
+15710257,Dickie Diffie,Surakarta,35,25000,0
+15582492,Dicky Bintang,Salatiga,28,123000,1
+15575694,Indra Frimawan,Cilegon,35,73000,0
+15756820,Ardit erwandha,Gorontalo,28,37000,0
+15766289,Kiky Saputri,Pudakpayung,27,88000,0
+15593014,Rigen,Solok,28,59000,0
+15584545,Ben Dhanio,Sawahlunto,32,86000,0
+15675949,Aci Resti,Musi Rawas,33,149000,1
+15672091,Fico Fahriza,Garut,19,21000,0
+15801658,Ananta Rispo,Subang,21,72000,0
+15706185,Yudha Keling,Indramayu,26,35000,0
+15789863,Arafah Rianti,Sumedang,27,89000,0
+15720943,Jui Purwoto,Ciamis ,26,86000,0
+15697997,Fajar Nugraha,Cianjur,38,80000,0
+15665416,Dzawin Nur Ikram,Blora,39,71000,0
+15660200,Nur Wijaya Hadi,Pati,37,71000,0
+15619653,Arief Didu,Kudus,38,61000,0
+15773447,Bintang Bete,Jepara,37,55000,0
+15739160,Barry Williem,Brebes,42,80000,0
+15689237,Egi Haw ,Boyolali,40,57000,0
+15679297,Denny Gitong,Sukoharjo,35,75000,0
+15591433,Arif Brata,Wonogiri,36,52000,0
+15642725,Mo Sidik,Temanggung,40,59000,0
+15701962,Boris Bokir,Rembang,41,59000,0
+15811613,Bintang Emon,Purworejo,36,75000,0
+15741049,Nobi Nobita,Bangkalan ,37,72000,0
+15724423,Roy Surya,Lamongan,40,75000,0
+15574305,Christopher Colombus ,Lumajang,35,53000,0
+15678168,Benidictus Siregas,Banyuwangi,41,51000,0
+15697020,Coki Anwar,Tembalang,39,61000,0
+15610801,Yusril Fahriza ,Cinde,42,65000,0
+15745232,Dani Aditya,Kedung Mundu,26,32000,0
+15722758,Nopek Novian,Bondowoso,30,17000,0
+15792102,Haris Teguh,Klipang,26,84000,0
+15675185,Ahmad Farhani,Ketileng,31,58000,0
+15801247,Santoso Putra,Ponorogo,33,31000,0
+15725660,Yono Bakrie,Pasuruan,30,87000,0
+15638963,Raim Laode ,Gianyar,21,68000,0
+15800061,Musdalifah Basri,Tabanan,28,55000,0
+15578006,Khoirina Dewi ,Klungkung,23,63000,0
+15668504,Ditya Annisafira,Karangasem,20,82000,0
+15687491,Tika Bravani,Buleleng,30,107000,1
+15610403,Raditya Dika,Ngada,28,59000,0
+15741094,Sasha Zania,Rote Ndao,19,25000,0
+15807909,Freya Putri ,Semarang,19,85000,0
+15666141,Tatjana Putri Saphira,Klipang,18,68000,0
+15617134,Aghniny Haque,Ungaran,35,59000,0
+15783029,Tara Basro,Bawen,30,89000,0
+15622833,Asmara Abigail,Malaka,34,25000,0
+15746422,Venna Melinda ,Ketapang,24,89000,0
+15750839,Starla Putri ,Landak,27,96000,1
+15749130,Febby Lawrence,Melawi,41,30000,0
+15779862,Shariq Mukhtar,Kapuas Hulu,29,61000,0
+15767871,Simon Susilo,Bengkayang,20,74000,0
+15679651,Simon Subrata ,Kotabaru,26,15000,0
+15576219,Sinatra Arto Hardy,Tapin,41,45000,0
+15699247,Soegwanto,Tabalong,31,76000,0
+15619087,Hendra Setiawan,Paser,36,50000,0
+15605327,Ravania Adeeva Inarazharfa,Kutai Barat,40,47000,0
+15610140,Sri Rahayu Setyawati,Kutai Kartanegara,31,15000,0
+15791174,Supriyanto,Gorontalo,46,59000,0
+15602373,Sudarsono,Bantaeng,29,75000,0
+15762605,Nur Sucipto,Maros,26,30000,0
+15598840,Susilowati,Sinjai,32,135000,1
+15744279,Thomas Shelby,Buton,32,100000,1
+15670619,Tjahyo Kumolo,Konawe,25,90000,0
+15599533,Kevin Ashbara,Kolaka,37,33000,0
+15757837,Kevin Aprilio,Bombana ,35,38000,0
+15697574,Veronica Lukito,Ponorogo,33,69000,0
+15578738,Livy Renata ,Pasuruan,18,86000,0
+15762228,Deddy Cahyadi,Toli-toli,22,55000,0
+15614827,Herjuno Ali,Palu,35,71000,0
+15789815,William Alfred,Minahasa,29,148000,1
+15579781,Alexander Miksar,Bitung ,29,47000,0
+15587013,Alfari Narindra,Manado,21,88000,0
+15570932,Dewi Su,Tomohon,34,115000,0
+15794661,Belinda Natalia Tanoko,Majene,26,118000,0
+15581654,Arinawati,Mamuju,34,43000,0
+15644296,Soekirman,Buru,34,72000,0
+15614420,Andini Kumalasari,Ternate,23,28000,0
+15609653,Caroline,Tidore,35,47000,0
+15594577,Catherine Gina Hambali,Keerom,25,22000,0
+15584114,Christina Harapan,Merauke,24,23000,0
+15673367,Deborah Kent Janawati,Sabang,31,34000,0
+15685576,David Kurniawan,Mimika,26,16000,0
+15774727,Devryamzard,Puncak ,31,71000,0
+15694288,Diva Charisma,Jaya Wijaya,32,117000,1
+15603319,Nikolas Widad,Banyumanik,33,43000,0
+15759066,Assyifa Azahra Putri,Fakfak,33,60000,0
+15814816,Daffa Albachri,Sorong,31,66000,0
+15724402,Dixon Koesdjojo,Makassar,20,82000,0
+15571059,Djajadi Djaja,Jakarta,33,41000,1
+15674206,Edi Susanto,Tlogosari,35,72000,0
+15715160,Elizabeth Jaine,Asahan,28,32000,0
+15730448,Endang Soekamti,Karo,24,84000,0
+15662067,Evan Andeta,Dairi,19,26000,0
+15779581,Farah Liza,Deli Serdang,29,43000,0
+15662901,Fauzi Putra,Solok,19,70000,1
+15689751,Yolanda Putri,Manado,28,89000,0
+15667742,Fitri Wiriasri,Bunaken,34,43000,0
+15738448,Francisca Citrasari,Purbalingga,30,79000,0
+15680243,Ammar Zoni,Surabaya,20,36000,0
+15745083,Aufar Hakim,Malang,26,80000,0
+15708228,Jefri Akbar,Banten,35,22000,0
+15628523,Ussy Susilowati,Cirebon,35,39000,0
+15708196,Andreas Taulani,Pemalang,49,74000,0
+15735549,Hadi Lukman,Yogyakarta,39,134000,1
+15809347,Lukman Sardi ,Klaten,41,71000,0
+15660866,Hadi Gunawan,Banyumanik,58,101000,1
+15766609,Hanny Sutanto,Tangerang ,47,47000,0
+15654230,Kasmari,Pudakpayung,55,130000,1
+15794566,Arwani ,Tembalang,52,114000,0
+15800890,Helen Wijaya ,Cempedak,40,142000,1
+15697424,Daffa Marsada,Gunung Pati,46,22000,0
+15724536,Hengky Sovian,Mranggen,48,96000,1
+15735878,Hilda Noveda Kaliman,Ternate,52,150000,1
+15707596,Yarina Novenda Rizky,Klungkung,59,42000,0
+15657163,Himawan Surya,Nias,35,58000,0
+15622478,Abyan Rizky Akbar,Labuhan Batu,47,43000,0
+15779529,Indra Gunawan,Padang,60,108000,1
+15636023,Indro Wibowo ,Batam,49,65000,0
+15582066,Edric Tjandra,Jambi,40,78000,0
+15666675,Jeremiah David,Payakumbuh,46,96000,0
+15732987,John Wick,Pasaman,59,143000,1
+15789432,Kris Widjojo,Musi Rawas,41,80000,0
+15663161,Lanny Lanawaty,Ogan Ilir,35,91000,1
+15694879,Lily Lawandra,Kampar,37,144000,1
+15593715,Lucas,Siak,60,102000,1
+15575002,Lucia Mogi,Bungo,35,60000,0
+15622171,Sutrisno,Kerinci,37,53000,0
+15795224,Putri Annisa,Natuna,36,126000,1
+15685346,Abdul Solihin,Tanjung Pinang,56,133000,1
+15691808,Fazar Rachmadi,Seluma,40,72000,0
+15721007,Rachmad Hermawan,Mesuji,42,80000,1
+15794253,Sugandi,Pesawaran,35,147000,1
+15694453,kambing,Magelang,39,42000,0
+15813113,kambing,Pati,40,107000,1
+15614187,kambing,Pekalongan,49,86000,1
+15619407,Fekambing,Purworejo,38,112000,0
+15646227,kambing,Rembang,46,79000,1
+15660541,kambing,Salatiga,40,57000,0
+15753874,Fekambing,Tegal,37,80000,0
+15617877,Fekambing,Ngawi,46,82000,0
+15772073,Fekambing,Pacitan,53,143000,1
+15701537,kambing,Sampang,42,149000,1
+15736228,kambing,Situbondo,38,59000,0
+15780572,Fekambing,Tuban,50,88000,1
+15769596,Fekambing,Tulungagung,56,104000,1
+15586996,Fekambing,Sumenep,41,72000,0
+15722061,Fekambing,Ponorogo,51,146000,1
+15638003,Fekambing,Badung,35,50000,0
+15775590,Fekambing,Jembrana,57,122000,1
+15730688,kambing,Gianyar,41,52000,0
+15753102,Fekambing,Wonogiri,35,97000,1
+15810075,Fekambing,Tabanan,44,39000,0
+15723373,kambing,Mataram,37,52000,0
+15795298,Fekambing,Ende,48,134000,1
+15584320,Fekambing,Alor,37,146000,1
+15724161,Fekambing,Sukamara,50,44000,0
+15750056,Fekambing,Sukabumi,52,90000,1
+15609637,Fekambing,Boalemo,41,72000,0
+15794493,kambing,Gowa,40,57000,0
+15569641,Fekambing,Bone,58,95000,1
+15815236,Fekambing,Barru,45,131000,1
+15811177,Fekambing,Parepare,35,77000,0
+15680587,kambing,Wajo,36,144000,1
+15672821,Fekambing,Muna,55,125000,1
+15767681,Fekambing,Kolaka,35,72000,0
+15600379,kambing,Poso,48,90000,1
+15801336,Fekambing,Majene,42,108000,1
+15721592,kambing,Mamasa,40,75000,0
+15581282,kambing,Semarang,37,74000,0
+15746203,Fekambing,Banyumanik,47,144000,1
+15583137,kambing,Buru,40,61000,0
+15680752,Fekambing,Halmahera ,43,133000,0
+15688172,Fekambing,Bawen,59,76000,1
+15791373,kambing,Salatiga,60,42000,1
+15589449,kambing,Samosir,39,106000,1
+15692819,Fekambing,Banda Aceh,57,26000,1
+15727467,kambing,Lhokseumawe,57,74000,1
+15734312,kambing,Sabang,38,71000,0
+15764604,kambing,Binjai,49,88000,1
+15613014,Fekambing,Palangkaraya,52,38000,1
+15759684,Fekambing,Solok,50,36000,1
+15609669,Fekambing,Banjarmasin,59,88000,1
+15685536,kambing,Sibolga,35,61000,0
+15750447,kambing,Tebing Tinggi,37,70000,1
+15663249,Fekambing,Lampung,52,21000,1
+15638646,kambing,Lamongan,48,141000,0
+15734161,Fekambing,Pemalang,37,93000,1
+15631070,Fekambing,Malang,37,62000,0
+15761950,Fekambing,Surabaya,48,138000,1
+15649668,kambing,Semarang,41,79000,0
+15713912,Fekambing,Ungaran,37,78000,1
+15586757,kambing,Banyumanik,39,134000,1
+15596522,kambing,Siak,49,89000,1
+15625395,kambing,Karimun,55,39000,1
+15760570,kambing,Kerinci,37,77000,0
+15566689,Fekambing,Jaya Wijaya,35,57000,0
+15725794,Fekambing,Batam,36,63000,0
+15673539,kambing,Kaur,42,73000,1
+15705298,Fekambing,Way Kanan,43,112000,1
+15675791,kambing,Tanggamus,45,79000,0
+15747043,kambing,Cikarang ,46,117000,1
+15736397,Fekambing,Bandung,58,38000,1
+15678201,kambing,Serang,48,74000,1
+15720745,Fekambing,Banten,37,137000,1
+15637593,kambing,Bantul,37,79000,1
+15598070,Fekambing,Sleman,40,60000,0
+15787550,kambing,Yogyakarta,42,54000,0
+15603942,Fekambing,Kulonprogo,51,134000,0
+15733973,Fekambing,Gianyar,47,113000,1
+15596761,kambing,Wonogiri,36,125000,1
+15652400,Fekambing,Sikka,38,50000,0
+15717893,Fekambing,Solo,42,70000,0
+15622585,kambing,Semarang,39,96000,1
+15733964,Fekambing,Bima,38,50000,0
+15753861,Fekambing,Batam,49,141000,1
+15747097,Fekambing,Ngada,39,79000,0
+15594762,Fekambing,Nagekeo,39,75000,1
+15667417,Fekambing,Bunaken,54,104000,1
+15684861,kambing,Demak,35,55000,0
+15742204,kambing,Kudus,45,32000,1
+15623502,kambing,Pati,36,60000,0
+15774872,Fekambing,Cepu,52,138000,1
+15611191,Fekambing,Blora,53,82000,1
+15674331,kambing,Kupang,41,52000,0
+15619465,Fekambing,Malaka,48,30000,1
+15575247,Fekambing,Sintang,48,131000,1
+15695679,Fekambing,Pontianak,41,60000,0
+15713463,kambing,Melawi,41,72000,0
+15785170,Fekambing,Landak,42,75000,0
+15796351,kambing,Ketapang,36,118000,1
+15639576,Fekambing,Gunung Mas,47,107000,1
+15693264,kambing,Katingan,38,51000,0
+15589715,Fekambing,Kapus,48,119000,1
+15769902,kambing,Barito,42,65000,0
+15587177,kambing,Lamandau,40,65000,0
+15814553,kambing,Kotawaringin,57,60000,1
+15601550,Fekambing,Seruyan,36,54000,0
+15664907,kambing,Palangkaraya,58,144000,1
+15612465,kambing,Nunukan ,35,79000,0
+15810800,Fekambing,Kendari,38,55000,0
+15665760,kambing,Pinrang,39,122000,1
+15588080,Fekambing,Luwu,53,104000,1
+15776844,kambing,Maros,35,75000,0
+15717560,Fekambing,Gowa,38,65000,0
+15629739,Fekambing,Fakfak,47,51000,1
+15729908,kambing,Takalar,47,105000,1
+15716781,Fekambing,Binjai,41,63000,0
+15646936,kambing,Sinjai,53,72000,1
+15768151,Fekambing,Parepare,54,108000,1
+15579212,kambing,Bau bau,39,77000,0
+15721835,kambing,Kolaka,38,61000,0
+15800515,Fekambing,Buton,38,113000,1
+15591279,kambing,Sigi,37,75000,0
+15587419,Fekambing,Manado,42,90000,1
+15750335,Fekambing,Bunaken,37,57000,0
+15699619,kambing,Mamuju,36,99000,1
+15606472,kambing,Ambon,60,34000,1
+15778368,kambing,Jayapura,54,70000,1
+15671387,Fekambing,Jaya Wijaya,41,72000,0
+15573926,kambing,Merauke,40,71000,1
+15709183,kambing,Nabire,42,54000,0
+15577514,kambing,Pegunungan Bintang,43,129000,1
+15778830,Fekambing,Manokwari,53,34000,1
+15768072,Fekambing,Raja Ampat,47,50000,1
+15768293,Fekambing,Sorong,42,79000,0
+15654456,kambing,Surakarta,42,104000,1
+15807525,Fekambing,Sragen,59,29000,1
+15574372,Fekambing,Wonosobo,58,47000,1
+15671249,kambing,Tegal,46,88000,1
+15779744,kambing,Magelang,38,71000,0
+15624755,Fekambing,Serang,54,26000,1
+15611430,Fekambing,Banjarnegara,60,46000,1
+15774744,kambing,Probolinggo,60,83000,1
+15629885,Fekambing,Purbalingga,39,73000,0
+15708791,kambing,Subang,59,130000,1
+15793890,Fekambing,Bogor,37,80000,0
+15646091,Fekambing,Depok,46,32000,1
+15596984,Fekambing,Bekasi,46,74000,0
+15800215,Fekambing,Tasikmalaya,42,53000,0
+15577806,kambing,Garut,41,87000,1
+15749381,Fekambing,Majalengka,58,23000,1
+15683758,kambing,Pangandaran,42,64000,0
+15670615,kambing,Purwakarta,48,33000,1
+15715622,Fekambing,Indramayu,44,139000,1
+15707634,kambing,Bandung,49,28000,1
+15806901,Fekambing,Cikarang ,57,33000,1
+15775335,kambing,Singkawang,56,60000,1
+15724150,Fekambing,Kuningan,49,39000,1
+15627220,kambing,Surabaya,39,71000,0
+15672330,kambing,Batu,47,34000,1
+15668521,Fekambing,Malang,48,35000,1
+15807837,kambing,Lamongan,48,33000,1
+15592570,kambing,Pemalang,47,23000,1
+15748589,Fekambing,Pekalongan,45,45000,1
+15635893,kambing,Jember,60,42000,1
+15757632,Fekambing,Magetan,39,59000,0
+15691863,Fekambing,Malang,46,41000,1
+15706071,kambing,Jombang,51,23000,1
+15654296,Fekambing,Gresik,50,20000,1
+15755018,kambing,Blitar,36,33000,0
+15594041,Fekambing,Solo,49,36000,1
